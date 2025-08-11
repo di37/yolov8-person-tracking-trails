@@ -96,5 +96,5 @@ This project is licensed under the MIT License — you are free to use, modify, 
 
 ---
 
-**Author:** Your Name
+**Author:** Isham Rashik
 **GitHub:** [@di37](https://github.com/di37)
